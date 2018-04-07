@@ -1,3 +1,5 @@
+# The world's first 100% honest CryptoCurrency.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/dmaillard/uaicoin-website/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
